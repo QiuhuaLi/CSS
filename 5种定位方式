@@ -1,0 +1,4 @@
+5种定位方式：float position：static/relative/absolute/fixed
+float:浮动定位，用于使块级元素在一行内显示
+relative：不脱离文档流，用于元素相对于原位置微调
+absolute：脱离文档流
